@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Login Logo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swipe_left_for_register">Swipe Left for Sign Up</string>
+    <string name="login">Login</string>
+    <string name="username">UserName</string>
+    <string name="swipe_right_for_login">Swipe Right for login</string>
+    <string name="forgotPass">Forgot Password</string>
+    <string name="register">Sign Up</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="addProduct">Add Product</string>
+    <string name="adId">Ad ID</string>
+    <string name="adDescription">Ad Description</string>
+    <string name="adType">Ad Type</string>
+    <string name="contactID">Contact ID</string>
+    <string name="adImage">Ad Image</string>
+    <string name="post">POST</string>
+    <string name="delete">DELETE Ad</string>
+    <string name="update">Update</string>
+    <string name="signup">Signup</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Passwords</string>
+    <string name="title_activity_user_profile">UserProfile</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
